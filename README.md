@@ -8,11 +8,11 @@ Developed a normal clock using C that can display both 12 or 24-hour clocks usin
 
 ## Commands
 **MUST BE RUN ON THE LINUX SERVER**
-- compile: gcc -std=c99 -Wall snakegame.c
-- run: ./a.out
+- compile: `gcc -std=c99 -Wall snakegame.c`
+- run: `./a.out`
 #### OR
-- compile: gcc -std=c99 -Wall snakegame.c -o (name of choice)
-- run: ./(name of choice)
+- compile: `gcc -std=c99 -Wall snakegame.c -o (name of choice)`
+- run: `./(name of choice)`
   
 ## Screenshots
 
