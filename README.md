@@ -16,4 +16,10 @@ Developed a normal clock using C that can display both 12 or 24-hour clocks usin
   
 ## Screenshots
 
-Currently no access to the Linux server.
+![clock1](https://github.com/user-attachments/assets/bc545bcc-b326-4ac1-88de-09b9357cfc9e)
+
+![clock2](https://github.com/user-attachments/assets/26515950-9a03-408e-8094-60c7b1f83758)
+
+![clock3](https://github.com/user-attachments/assets/42d42a6b-a71d-4860-9bdc-409d33b316ea)
+
+
